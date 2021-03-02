@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNet.Identity.EntityFramework;
-using Smart_Contact_Manager.Models;
+﻿using Smart_Contact_Manager.Models;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;

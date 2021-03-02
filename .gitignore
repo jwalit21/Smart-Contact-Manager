@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+Smart_Contact_Manager/Smart_Contact_Manager/Migrations
+
 # User-specific files
 *.rsuser
 *.suo
